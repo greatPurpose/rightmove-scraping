@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Scraping\\Scraping\\SOURCES\\FiftyJobs\\FiftyJobs\\FiftyJobs.csproj": {}
+  },
+  "projects": {
+    "D:\\Scraping\\Scraping\\SOURCES\\FiftyJobs\\FiftyJobs\\FiftyJobs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Scraping\\Scraping\\SOURCES\\FiftyJobs\\FiftyJobs\\FiftyJobs.csproj",
+        "projectName": "FiftyJobs",
+        "projectPath": "D:\\Scraping\\Scraping\\SOURCES\\FiftyJobs\\FiftyJobs\\FiftyJobs.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "D:\\Scraping\\Scraping\\SOURCES\\FiftyJobs\\FiftyJobs\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[83.0.0, )"
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.26.0, )"
+            },
+            "Selenium.InternetExplorer.WebDriver": {
+              "target": "Package",
+              "version": "[3.150.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
